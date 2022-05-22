@@ -7,4 +7,4 @@ The repository contains:
 * Example PDVS2mini.conf file
 * Pyinstaller files inc. binary compiled on Fedora 36 (in 'dist' folder)
 
-![Screenshot](/images/PDVS2Mini.png)
+![Screenshot](images/PDVS2Mini.png)
