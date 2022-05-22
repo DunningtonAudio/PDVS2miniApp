@@ -1,5 +1,5 @@
 # PDVS2miniApp
-A python application for cross platform serial control of Ian Scott Johnsons PDVS2mini precision voltage source
+A python application for cross platform serial control of Ian Scott Johnston's PDVS2mini precision voltage source
 
 The repository contains:
 
